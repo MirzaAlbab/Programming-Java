@@ -2,3 +2,4 @@ Java Programming
 1. Belajar tentang dasar-dasar pemrogaman java
 2. Belajar Object Oriented Programming java
 3. Belajar menerapkan OOP pada java
+4. Menerapkan java untuk mobile apps
